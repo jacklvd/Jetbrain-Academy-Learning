@@ -1,1 +1,1 @@
-"# jetbrain" 
+My jetbrain academy learning project
